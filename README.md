@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're cadet cybersecurity section bands</h1>
-<h3 align="center">e are learning and working about programing for programer.</h3>
+<h3 align="center">We are learning and working about programing for programer.</h3>
 
 - 🔭 I’m currently working on **web scraping API**
 
